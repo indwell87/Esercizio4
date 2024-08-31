@@ -1,0 +1,19 @@
+.logo {width: 150px; height: 100px;}
+h1 {font-family: "Montserrat"; font-weight:400; font-size: 70px;}
+h2 {font-size: 20px;}
+h3 {font-size: 25px;text-align: center;}
+p {text-align: center;}
+.art1, .art2, .art3 {height: 550px; max-width: 350px; border: 3px; border-style:solid; color: black; display: flex; flex-direction: column; align-items: center;}
+aside {height: 80vh; max-width: 40vh; background-color: #ffffce;}
+.articoli {display: flex; justify-content: space-around;}
+.fotoarticolo1 {width: 280px; height: 200px;}
+.fotoarticolo2 {width: 280px; height: 200px;}
+.fotoarticolo3 {width: 280px; height: 200px;}
+.leggitutto {background-color: black; color: white;}
+.leggitutto:hover{background-color: yellow; color: black;}
+.aside {width: 10vh; height: 550px; background-color: yellow;}
+header{display: flex; list-style-type: none;}
+.fotocorrelato {width: 280px; height: 150px;}
+.menu {display: flex; }
+li {padding: 10px; list-style:none;  }
+li:hover {background-color: yellow;}
